@@ -1,4 +1,6 @@
 ### Repository of Daniel Palmeter, UW-Madison class of 2022
+###
+### Contains a data reader that reads in movies from a csv and creates corresponding movie objects
 
 <!--
 **palmeterdaniel/palmeterdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
