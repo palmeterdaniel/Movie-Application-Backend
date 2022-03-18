@@ -1,5 +1,3 @@
-### Repository of Daniel Palmeter, UW-Madison class of 2022
-###
 ### Contains a data reader that reads in movies from a CSV and creates a list of corresponding movie objects
 
 <!--
